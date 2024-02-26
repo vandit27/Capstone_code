@@ -1,0 +1,1 @@
+Skin lesion classification using deep learning is a technique that leverages deep neural networks to accurately classify different types of skin lesions. This approach has gained significant attention in the field of dermatology as it offers the potential to improve the accuracy and efficiency of skin lesion diagnosis.
